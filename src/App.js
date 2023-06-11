@@ -9,8 +9,13 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a>
-          Just completed the Travis CI CD pipepline!
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Just completed the Travis CI CD pipepline! Open the link to learn React
         </a>
       </header>
     </div>
