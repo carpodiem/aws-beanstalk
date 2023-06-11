@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Just completed the Travis CI CD pipepline! Open the link to learn React
         </a>
       </header>
     </div>
